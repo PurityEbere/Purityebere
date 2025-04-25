@@ -4,7 +4,8 @@
 
 <h3 align="left">👩‍💻 About Me</h3>
 
-<p align="left" style="font-family: Georgia, serif;">I’m a Technical Product Manager, still learning and growing in DevOps and Cloud Engineering. I’m passionate about automation and finding ways to use the cloud to build solutions that solve real problems and make an impact. I’m always open to learning more, sharing ideas, and connecting with people in the space. Find out more about me & feel free to connect with me here:</p>
+<p align="left" style="font-family: Georgia, serif;">I’m a Technical Product Manager,interested in building simple, scalable, and secure software solutions.
+</p>
 
 ###
 
