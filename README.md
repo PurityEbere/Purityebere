@@ -24,33 +24,12 @@
   </a>
 </div>
 
-###
-
-<h3 align="left">🛠 Tools & Technologies</h3>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="20"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" height="20"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="20"/>
-  <img src="https://img.shields.io/badge/Vagrant-1868F2?logo=vagrant&logoColor=white&style=for-the-badge" height="20"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="20"/>
-  <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge" height="20"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge" height="20"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" height="20"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="20"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="20"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="20"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="20"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" height="20"/>
-</div>
 
 ###
-
-<h3 align="left">📊 My Progress</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=purityebere&show_icons=true&locale=en" alt="stats" width="300"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=purityebere&" alt="streak" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=purityebere&show_icons=true&locale=en" alt="stats" width="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=purityebere&" alt="streak" width="150"/>
 </p>
 
 <p align="center">
