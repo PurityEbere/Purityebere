@@ -2,9 +2,9 @@
 
 ###
 
-<h3 align="left">👩‍💻 About Me</h3>
+<h3 align="left"> About Me</h3>
 
-<p align="left" style="font-family: Georgia, serif;">I’m a Technical Product Manager,interested in building simple, scalable, and secure software solutions.
+<p align="left" style="font-family: Georgia, serif;">I’m Purity, a Technical Product Manager,interested in building simple, scalable, and secure software solutions.
 </p>
 
 ###
